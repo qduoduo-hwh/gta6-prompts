@@ -1,0 +1,6 @@
+# Allow only prompt data and collection documentation.
+/*
+!/.gitignore
+!/README.md
+!/prompts.json
+!/LICENSE

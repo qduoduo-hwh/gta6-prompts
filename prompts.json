@@ -1,0 +1,803 @@
+{
+  "title": "GTA 6 Prompts",
+  "website": "https://gta6prompt.com/",
+  "count": 65,
+  "prompts": [
+    {
+      "id": "gta-6-character-gta-filter",
+      "title": "GTA Filter",
+      "category": "GTA 6 Character",
+      "prompt": "Transform this photo into a GTA 6 style criminal protagonist, sharp facial features, confident and dangerous expression, detailed streetwear outfit, holding handgun, Vice City background, official GTA 6 character art style, vibrant colors, cel-shaded details, high fidelity to reference face.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-character-gta-protagonist",
+      "title": "GTA Protagonist",
+      "category": "GTA 6 Character",
+      "prompt": "Convert this man into a rugged GTA 6 male protagonist, serious expression, casual criminal attire with hoodie and chain, palm tree and neon city skyline behind, GTA 6 cover art illustration style, bold outlines, cinematic lighting.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-character-gta-criminal-partners",
+      "title": "GTA Criminal Partners",
+      "category": "GTA 6 Character",
+      "prompt": "Turn this couple photo into GTA 6 style criminal duo in action pose, one holding gun, dynamic tension between them, tropical Vice City night scene, official Rockstar character artwork style, vibrant pastel and neon palette.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-character-gta-playable-selfie",
+      "title": "GTA Playable Selfie",
+      "category": "GTA 6 Character",
+      "prompt": "Stylize this selfie into a playable GTA 6 protagonist, preserve detailed face, wearing street fashion with weapons, standing in Leonida wetland or beach, GTA 6 loading screen / character select style, highly detailed, game-accurate rendering.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-character-lucia-caminos-close-up-portrait",
+      "title": "Lucia Caminos Close-Up Portrait",
+      "category": "GTA 6 Character",
+      "prompt": "Powerful Latina woman with sharp eyes and confident expression, shoulder-length dark hair, holding a pistol, wearing tactical streetwear with gold jewelry, intense gaze toward camera, dramatic sunset lighting, GTA 6 character art style, vibrant colors, detailed face, cinematic portrait.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-character-jason-duval-rugged-protagonist",
+      "title": "Jason Duval Rugged Protagonist",
+      "category": "GTA 6 Character",
+      "prompt": "Rugged young man with army background, short hair, stubble, serious expression, wearing casual hoodie and chain, standing in Vice City street at dusk, GTA 6 protagonist style, realistic yet stylized illustration, strong shadows, neon accents.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-character-lucia-and-jason-criminal-duo",
+      "title": "Lucia and Jason Criminal Duo",
+      "category": "GTA 6 Character",
+      "prompt": "Bonnie and Clyde style criminal couple, Lucia aiming gun forward, Jason driving a supercar, intense chemistry, tropical night background with palm trees, GTA 6 official character artwork, dynamic composition, saturated pink-purple tones.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-character-badass-female-criminal",
+      "title": "Badass Female Criminal",
+      "category": "GTA 6 Character",
+      "prompt": "Badass female GTA 6 style criminal, tattoos on arms, crop top and cargo pants, posing on motorcycle in front of neon signs, confident smirk, detailed skin texture, Vice City aesthetic, high detail, dramatic rim lighting.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cover-art-gta-6-multi-panel-cover",
+      "title": "GTA 6 Multi-Panel Cover",
+      "category": "GTA 6 Cover Art",
+      "prompt": "Official GTA 6 cover art style, central large logo \"Grand Theft Auto VI\", nine-panel comic layout with Jason and Lucia in main panels, helicopter, yellow supercar, alligator, neon Vice City skyline, vibrant purple pink orange palette, bold black borders, classic Rockstar illustration.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cover-art-classic-gta-vi-box-art-homage",
+      "title": "Classic GTA VI Box Art Homage",
+      "category": "GTA 6 Cover Art",
+      "prompt": "GTA VI box art homage, protagonists Jason and Lucia holding guns in center, surrounded by action panels: police chase, speedboat, palm trees, detailed vehicles and characters, retro comic book cover style, high saturation, dramatic lighting.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cover-art-lucia-focused-modern-cover",
+      "title": "Lucia Focused Modern Cover",
+      "category": "GTA 6 Cover Art",
+      "prompt": "Modern GTA 6 cover reinterpretation, Lucia in foreground with pistol, Jason behind, multi-panel background showing Vice City landmarks, flamingo, luxury cars, official artwork aesthetic, clean vector-like lines, pastel tropical colors.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cover-art-epic-alligator-helicopter-cover",
+      "title": "Epic Alligator & Helicopter Cover",
+      "category": "GTA 6 Cover Art",
+      "prompt": "Epic GTA 6 alternative cover, massive logo dominating, bottom panel with roaring alligator, top with armed helicopter over city, side panels with motorcycles and bank heist, bold illustrative style like GTA Vice City.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cover-art-minimalist-gta-6-silhouette-cover",
+      "title": "Minimalist GTA 6 Silhouette Cover",
+      "category": "GTA 6 Cover Art",
+      "prompt": "Minimalist GTA 6 cover variant, Jason and Lucia silhouette against purple sunset, scattered small icons of cars, guns, palm trees, clean composition, premium game box art feel.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cover-art-dynamic-car-chase-cover-art",
+      "title": "Dynamic Car Chase Cover Art",
+      "category": "GTA 6 Cover Art",
+      "prompt": "Dynamic GTA VI cover art, couple in car chase scene integrated into panels, police lights, explosions, rich color grading, Rockstar Games official style, ultra detailed.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cover-art-female-protagonist-power-cover",
+      "title": "Female Protagonist Power Cover",
+      "category": "GTA 6 Cover Art",
+      "prompt": "GTA 6 female protagonist focused cover, Lucia central with strong pose, supporting panels of action and Vice City life, vibrant and energetic illustration.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cover-art-full-ensemble-gta-6-cover",
+      "title": "Full Ensemble GTA 6 Cover",
+      "category": "GTA 6 Cover Art",
+      "prompt": "Full ensemble GTA 6 cover, all key elements from official art: supercar, helicopter, characters, wildlife, neon aesthetics, perfect composition for wallpaper or poster.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-car-art-yellow-pegassi-supercar-at-sunset",
+      "title": "Yellow Pegassi Supercar at Sunset",
+      "category": "GTA Car Art",
+      "prompt": "Bright yellow Pegassi supercar with scissor doors, parked on Vice City beach at sunset, palm trees and ocean reflection, GTA 6 vehicle artwork, cinematic low angle, glossy paint, dramatic lighting.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts",
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [
+        "Pegassi Supercar Sunset"
+      ],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-car-art-high-speed-police-chase",
+      "title": "High-Speed Police Chase",
+      "category": "GTA Car Art",
+      "prompt": "High speed police chase, black muscle car pursued by cop cars with flashing lights, neon city streets, motion blur, GTA 6 action style, vibrant colors, dynamic composition.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-car-art-luxury-sports-car-marina-showcase",
+      "title": "Luxury Sports Car Marina Showcase",
+      "category": "GTA Car Art",
+      "prompt": "Luxury sports car lineup in Vice City marina, multiple exotic vehicles, reflective water, golden hour lighting, GTA 6 car showcase illustration.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-car-art-custom-lowrider-wheelie",
+      "title": "Custom Lowrider Wheelie",
+      "category": "GTA Car Art",
+      "prompt": "Customized lowrider muscle car doing wheelie on highway, detailed decals and chrome, palm trees background, classic GTA cover vehicle art.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-car-art-armored-getaway-crash",
+      "title": "Armored Getaway Crash",
+      "category": "GTA Car Art",
+      "prompt": "Armored getaway vehicle crashing through barrier, sparks and debris, intense action scene, GTA 6 realistic yet stylized rendering.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-car-art-motorcycle-stunt-gang",
+      "title": "Motorcycle Stunt Gang",
+      "category": "GTA Car Art",
+      "prompt": "Motorcycle gang with sport bikes doing stunts, neon night Vice City background, GTA 6 bike artwork, high energy, motion effects.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-car-art-coastal-convertible-cruise",
+      "title": "Coastal Convertible Cruise",
+      "category": "GTA Car Art",
+      "prompt": "Classic GTA 6 convertible cruising coastal road, beautiful woman driver, wind in hair, tropical sunset, vibrant and fun illustration.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-car-art-swamp-off-road-adventure",
+      "title": "Swamp Off-Road Adventure",
+      "category": "GTA Car Art",
+      "prompt": "Off-road truck in Leonida swamps with alligator nearby, muddy tires, adventurous GTA 6 vehicle scene, detailed environment.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-vice-city-rainy-night-alley-mood",
+      "title": "Rainy Night Alley Mood",
+      "category": "GTA 6 Vice City",
+      "prompt": "Rainy night alley in Vice City, reflections on ground, mysterious atmosphere, GTA 6 moody environment art.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-vice-city-golden-hour-city-aerial-view",
+      "title": "Golden Hour City Aerial View",
+      "category": "GTA 6 Vice City",
+      "prompt": "Aerial view of Vice City bridges and highways at golden hour, heavy traffic, beautiful color grading, GTA 6 map-like illustration.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-vice-city-downtown-vice-city-street-dusk",
+      "title": "Downtown Vice City Street Dusk",
+      "category": "GTA 6 Vice City",
+      "prompt": "Bustling Vice City downtown street at dusk, traffic, street vendors, neon signs, detailed architecture, GTA 6 immersive world.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-vice-city-luxury-rooftop-ocean-view",
+      "title": "Luxury Rooftop Ocean View",
+      "category": "GTA 6 Vice City",
+      "prompt": "Luxury rooftop party overlooking Vice City ocean, pool, palm trees, city lights, cinematic GTA 6 lifestyle scene.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-poster-wallpaper-epic-back-to-back-heroes-poster",
+      "title": "Epic Back-to-Back Heroes Poster",
+      "category": "GTA 6 Poster & Wallpaper",
+      "prompt": "Epic GTA 6 movie-style poster, Jason and Lucia standing back-to-back with guns, explosive Vice City background, bold title text space, cinematic lighting.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-poster-wallpaper-minimalist-neon-logo-wallpaper",
+      "title": "Minimalist Neon Logo Wallpaper",
+      "category": "GTA 6 Poster & Wallpaper",
+      "prompt": "Minimalist GTA wallpaper, large logo with palm tree silhouette and neon gradient background, clean and premium, perfect for desktop.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-poster-wallpaper-coastal-highway-chase-wallpaper",
+      "title": "Coastal Highway Chase Wallpaper",
+      "category": "GTA 6 Poster & Wallpaper",
+      "prompt": "Action-packed wallpaper: high-speed car chase on coastal highway, dramatic sunset, GTA 6 style, high detail, vibrant colors.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-poster-wallpaper-powerful-lucia-protagonist-poster",
+      "title": "Powerful Lucia Protagonist Poster",
+      "category": "GTA 6 Poster & Wallpaper",
+      "prompt": "Lucia protagonist poster, powerful pose with city skyline, pink-purple color scheme, motivational GTA fan art style.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-poster-wallpaper-expansive-vice-city-panorama",
+      "title": "Expansive Vice City Panorama",
+      "category": "GTA 6 Poster & Wallpaper",
+      "prompt": "Dual monitor wallpaper: expansive Vice City panorama with vehicles and characters, seamless GTA 6 aesthetic.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-poster-wallpaper-classic-loading-screen-style",
+      "title": "Classic Loading Screen Style",
+      "category": "GTA 6 Poster & Wallpaper",
+      "prompt": "Loading screen inspired wallpaper, character in center with \"Grand Theft Auto VI\" text, classic GTA style, detailed and iconic.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-poster-wallpaper-funny-alligator-supercar-meme",
+      "title": "Funny Alligator Supercar Meme",
+      "category": "GTA 6 Poster & Wallpaper",
+      "prompt": "Funny / meme style poster: alligator wearing sunglasses driving a supercar, Vice City background, humorous GTA 6 vibe.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-poster-wallpaper-luxury-palm-tree-supercar-scene",
+      "title": "Luxury Palm Tree Supercar Scene",
+      "category": "GTA 6 Poster & Wallpaper",
+      "prompt": "Luxury cinematic wallpaper: supercar parked under palm trees with ocean view, golden hour, premium GTA 6 atmosphere, ultra realistic yet stylized.",
+      "sources": [
+        "https://www.seaart.ai/ai-prompt/gta-style-prompts"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-neon-criminal-hero-poster",
+      "title": "Neon Criminal Hero Poster",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Create an ultra cinematic GTA 6 style poster of a confident street character standing in a neon-lit Miami alley at sunset. Low-angle camera shot with tropical palm trees, glowing pink and orange lighting, luxury sports car positioned behind the subject. Feature dramatic shadows, Rockstar-inspired promotional artwork aesthetic, bold graphic composition, hyper realistic textures with atmospheric smoke, and official game cover design language.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-vice-city-nightlife-poster",
+      "title": "Vice City Nightlife Poster",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Transform the portrait into a GTA VI nightlife poster surrounded by vibrant neon signs and rain reflections. Incorporate luxury nightclubs, glowing streets, cinematic blue and magenta lighting with dramatic depth of field. Showcase stylish streetwear fashion on the subject with intense expression, cinematic realism, and official Rockstar promotional styling to capture the authentic Vice City nightlife essence.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-gta-6-female-protagonist-style",
+      "title": "GTA 6 Female Protagonist Style",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Create a GTA 6 inspired female protagonist poster exuding powerful attitude against a tropical Miami background. Feature sunset sky gradients with cinematic orange and pink glow, luxury jewelry accents, and dramatic shadows. Include palm trees and sports car reflections in the composition, rendered in modern Rockstar game art style with bold cinematic composition and commanding presence.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-low-angle-action-hero-cover",
+      "title": "Low Angle Action Hero Cover",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Generate a cinematic GTA 6 action poster from a dramatic low-angle perspective showing the character standing powerfully in the middle of a neon urban street. Include glowing police lights, motion blur effects, luxury vehicles surrounding the scene, atmospheric smoke, high contrast lighting, and ultra detailed Rockstar-inspired game cover art that captures intense action energy.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-retro-miami-sunset-poster",
+      "title": "Retro Miami Sunset Poster",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Create a retro GTA VI Miami sunset poster featuring pastel orange skies and glowing neon reflections across wet surfaces. Include palm silhouettes, vintage sports car, cinematic grain texture, tropical atmosphere, and 1980s synthwave energy throughout the composition. Deliver bold game-poster composition with hyper detailed promotional artwork aesthetic that evokes classic Rockstar nostalgia.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-instagram-main-character-energy",
+      "title": "Instagram Main Character Energy",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Turn this selfie into a GTA 6 style cinematic portrait radiating strong main-character energy. Feature neon Miami nightlife background with dramatic shadows, luxury fashion styling on the subject, glowing city reflections, cinematic depth of field, and Rockstar-inspired promotional composition. Apply vibrant orange and magenta color grading to create Instagram-worthy visual impact.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-luxury-lifestyle-gta-poster",
+      "title": "Luxury Lifestyle GTA Poster",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Create a luxury GTA VI style portrait featuring designer streetwear and gold accessories under tropical sunset lighting. Showcase exotic sports cars, cinematic reflections, high-end nightclub atmosphere, and bold game artwork composition. Emphasize realistic skin textures and ultra detailed AI poster aesthetic that conveys wealth, status, and aspirational lifestyle through premium visual elements.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-rainy-neon-street-edit",
+      "title": "Rainy Neon Street Edit",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Generate a GTA 6 rainy street portrait with wet asphalt reflections and cinematic neon signs creating dramatic backlighting. Establish moody atmosphere with realistic rain particles, Miami-inspired nightlife environment, and cinematic realism throughout the composition. Capture Rockstar promotional poster energy through atmospheric weathering and urban grit that enhances the street-level authenticity.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-viral-reels-cover-style",
+      "title": "Viral Reels Cover Style",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Design a viral Instagram Reels cover in GTA VI art style with cinematic portrait framing and bold lighting contrast. Establish luxury tropical city vibe through strong graphical composition using pink-orange neon palette. Deliver modern game marketing artwork aesthetic with ultra sharp details that stop scrolling feeds and drives engagement across social media platforms.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "gta-6-cinematic-posters-streetwear-editorial-gta-art",
+      "title": "Streetwear Editorial GTA Art",
+      "category": "GTA 6 Cinematic Posters",
+      "prompt": "Create a GTA 6 inspired streetwear editorial poster showcasing futuristic urban fashion with cinematic neon shadows and reflective textures. Feature glowing sunset sky backdrop, sports car background elements, and Rockstar-style character illustration throughout. Employ dramatic cinematic framing that elevates streetwear aesthetics to high-fashion editorial standards while maintaining authentic game art DNA.",
+      "sources": [
+        "https://www.media.io/image-effects/chatgpt-gta-style-poster-prompts.html"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "license": "Third-party source terms; excluded from repository MIT license"
+    },
+    {
+      "id": "style-presets-vice-city-key-art",
+      "title": "Vice City Key Art",
+      "category": "Style Presets",
+      "prompt": "Transform the person in this photo into iconic Vice City GTA 6 key art illustration style. Preserve their exact facial features, hair, and likeness. Semi-realistic promotional digital painting with crisp ink linework, warm coral-and-gold sunset lighting, palm tree silhouettes, pastel Miami beachfront skyline, dramatic high-contrast shadows, 4K poster finish. No text or logos.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "aspectHint": "1024x1536",
+      "license": "MIT"
+    },
+    {
+      "id": "style-presets-loading-screen-portrait",
+      "title": "Loading Screen Portrait",
+      "category": "Style Presets",
+      "prompt": "Reimagine the subject from the uploaded photo as a GTA 6 loading screen character portrait. Keep their exact face, expression, and identity recognizable. Styled in vibrant tropical streetwear, warm sunset rim light, painterly cel-shaded game artwork, softly blurred coastal boulevard and palm trees in the background, crisp detail. No text or watermarks.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "aspectHint": "1024x1024",
+      "license": "MIT"
+    },
+    {
+      "id": "style-presets-coastal-convertible-cruise",
+      "title": "Coastal Convertible Cruise",
+      "category": "Style Presets",
+      "prompt": "Turn the person in this photo into a GTA 6 promotional scene driving a classic retro convertible sports car on Ocean Drive at dusk. Maintain their exact facial identity and proportions. Bold painterly illustration style with warm sunset reflections on chrome, swaying palms, cinematic composition.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "aspectHint": "1024x1536",
+      "license": "MIT"
+    },
+    {
+      "id": "style-presets-leonida-duo-poster",
+      "title": "Leonida Duo Poster",
+      "category": "Style Presets",
+      "prompt": "Transform the people in this photo into a dramatic GTA 6 duo key art poster. Preserve every person’s exact facial likeness, hairstyle, and expression. Bold Rockstar-inspired digital painting with rich brush texture, coral-orange sunset sky over coastal bay, palm silhouettes, vintage car hood in foreground, heroic poster framing.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "aspectHint": "1024x1536",
+      "license": "MIT"
+    },
+    {
+      "id": "style-presets-gta-6-multi-panel-cover",
+      "title": "GTA 6 Multi-Panel Cover",
+      "category": "Style Presets",
+      "prompt": "Official GTA 6 cover art style, central large logo \"Grand Theft Auto VI\", nine-panel comic layout with duo protagonists in main panels, helicopter, supercar, alligator, neon Vice City skyline, vibrant purple pink orange palette, bold black borders, classic Rockstar illustration.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "aspectHint": "1536x1024",
+      "license": "MIT"
+    },
+    {
+      "id": "style-presets-modern-box-art-duo",
+      "title": "Modern Box Art Duo",
+      "category": "Style Presets",
+      "prompt": "Modern GTA 6 cover reinterpretation, two protagonists in foreground, multi-panel background showing Vice City landmarks, flamingo, luxury cars, official artwork aesthetic, clean vector-like lines, pastel tropical colors.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "aspectHint": "1536x1024",
+      "license": "MIT"
+    },
+    {
+      "id": "style-presets-vice-city-dusk-street",
+      "title": "Vice City Dusk Street",
+      "category": "Style Presets",
+      "prompt": "Bustling Vice City downtown street at dusk, traffic, street vendors, neon signs, detailed architecture, palm trees, warm sunset haze, GTA 6 immersive environment illustration.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "scene",
+      "aspectHint": "1536x1024",
+      "license": "MIT"
+    },
+    {
+      "id": "chatgpt-gemini-gta-6-key-art-cover-upload-selfie",
+      "title": "GTA 6 Key Art Cover (Upload Selfie)",
+      "category": "ChatGPT & Gemini",
+      "prompt": "Transform the person in this uploaded photo into GTA 6 key art illustration style. Preserve the exact identity, facial structure, hairstyle, and expression of the person in the reference photo; only change the art style, lighting, and background. Semi-realistic painterly digital painting with bold ink contours, warm golden-hour Miami sunset, pastel coral sky, palm tree silhouettes, and retro Ocean Drive vibes. High contrast, 4K poster composition, no text.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "platform": "chatgpt",
+      "tip": "Upload a clear front-facing photo in ChatGPT first, then paste this prompt.",
+      "license": "MIT"
+    },
+    {
+      "id": "chatgpt-gemini-gta-6-couple-duo-poster-prompt",
+      "title": "GTA 6 Couple / Duo Poster Prompt",
+      "category": "ChatGPT & Gemini",
+      "prompt": "Turn the two people in this photo into a GTA 6 Vice City cover art duo poster. Keep both faces, hairstyles, and proportions strictly faithful to the uploaded photo. Styled in tropical streetwear leaning against a classic 1980s convertible car, warm coral sunset sky, palm trees, crisp semi-realistic game cover illustration shading, cinematic composition, no text or watermarks.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "platform": "chatgpt",
+      "tip": "Works best with upper-body duo photos taken in even lighting.",
+      "license": "MIT"
+    },
+    {
+      "id": "chatgpt-gemini-gta-6-loading-screen-character",
+      "title": "GTA 6 Loading Screen Character",
+      "category": "ChatGPT & Gemini",
+      "prompt": "Reimagine the subject from this photo as an illustrated GTA 6 loading screen character portrait (1:1 square). Preserve exact facial likeness from the reference photo. Dramatic sunset rim lighting, vibrant painterly cel-shading, coastal boulevard softly blurred in the background, crisp detail, no text.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "platform": "chatgpt",
+      "tip": "Add \"wearing sunglasses\" or \"holding a coffee cup\" to customize props.",
+      "license": "MIT"
+    },
+    {
+      "id": "chatgpt-gemini-gemini-gta-6-style-transfer-selfie",
+      "title": "Gemini GTA 6 Style Transfer (Selfie)",
+      "category": "ChatGPT & Gemini",
+      "prompt": "Style transfer this uploaded photo into GTA 6 Vice City cover art illustration while keeping the uploaded person’s face, pose, and proportions clearly recognizable. Rich painterly digital illustration with bold ink outlines, warm Florida sunset sky in coral and amber, palm tree silhouettes, cinematic contrast, clean composition without any text.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "platform": "gemini",
+      "tip": "Attach your photo in Gemini and explicitly keep \"Style transfer\" at the start.",
+      "license": "MIT"
+    },
+    {
+      "id": "chatgpt-gemini-gemini-ocean-drive-sports-car-scene",
+      "title": "Gemini Ocean Drive Sports Car Scene",
+      "category": "ChatGPT & Gemini",
+      "prompt": "Re-render the uploaded person in GTA 6 promotional key art style standing next to a retro sports coupe on a palm-lined Miami beachfront road at sunset. Maintain the subject’s exact face and hair from the reference image. Stylized semi-realistic game painting, warm golden-hour rim light, vibrant neon hotel reflections, 16:9 widescreen wallpaper, no logos or text.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "platform": "gemini",
+      "tip": "Great for desktop wallpapers and YouTube/X banner headers.",
+      "license": "MIT"
+    },
+    {
+      "id": "chatgpt-gemini-gemini-gta-6-portrait-with-pet-car",
+      "title": "Gemini GTA 6 Portrait with Pet / Car",
+      "category": "ChatGPT & Gemini",
+      "prompt": "Convert this photo into vibrant GTA 6 key art digital painting style. Keep the exact likeness of both the person and their pet/vehicle from the original photo. Bold comic-painterly shading, sunset beach boardwalk background, warm coral and gold highlights, crisp outlines, no text.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "platform": "gemini",
+      "tip": "Works reliably in Gemini for photos containing both people and pets or vehicles.",
+      "license": "MIT"
+    },
+    {
+      "id": "tutorial-prompts-solo-gta-6-protagonist-portrait-chatgpt-gpt-4o",
+      "title": "Solo GTA 6 Protagonist Portrait (ChatGPT / GPT-4o)",
+      "category": "Tutorial Prompts",
+      "prompt": "Transform the uploaded photo into an authentic GTA 6 Vice City key art illustration. Preserve the exact facial structure, hairstyle, skin tone, and expression of the person in the photo. Render in semi-realistic hand-inked digital illustration style with crisp dark outlines, bold cel-shaded highlights, and warm Miami sunset rim lighting (magenta, amber, and teal). Background: palm tree silhouettes and neon Art Deco hotels along Ocean Drive at dusk. No game logos or text.",
+      "sources": [
+        "https://gta6prompt.com/blog/how-to-generate-gta-6-style-art"
+      ],
+      "aliases": [],
+      "license": "MIT"
+    },
+    {
+      "id": "tutorial-prompts-couple-duo-vice-city-cover-poster-gemini-chatgpt",
+      "title": "Couple / Duo Vice City Cover Poster (Gemini & ChatGPT)",
+      "category": "Tutorial Prompts",
+      "prompt": "Style-transfer the two people from the uploaded photo into a GTA 6 Leonida cover art poster while keeping both faces, hairstyles, and natural proportions strictly faithful to the reference image. Leaning confidently against a vintage convertible supercar under a glowing pink-and-orange Miami sunset sky, bold comic-realistic brushwork, high-contrast shadow blocks, clean editorial poster composition, no text or watermarks.",
+      "sources": [
+        "https://gta6prompt.com/blog/how-to-generate-gta-6-style-art"
+      ],
+      "aliases": [],
+      "license": "MIT"
+    },
+    {
+      "id": "tutorial-prompts-vice-city-supercar-neon-street-scene-text-to-image",
+      "title": "Vice City Supercar & Neon Street Scene (Text-to-Image)",
+      "category": "Tutorial Prompts",
+      "prompt": "GTA 6 loading screen style digital illustration of a sleek yellow supercar speeding down a rain-slicked Miami neon boulevard at twilight, palm trees and pastel Art Deco hotels reflecting in wet asphalt, bold ink contours, vibrant magenta and cyan highlights, cinematic low-angle composition, no logos or UI text.",
+      "sources": [
+        "https://gta6prompt.com/blog/how-to-generate-gta-6-style-art"
+      ],
+      "aliases": [],
+      "license": "MIT"
+    },
+    {
+      "id": "template-swap-instructions-single-character-template-swap",
+      "title": "Single Character Template Swap",
+      "category": "Template Swap Instructions",
+      "prompt": "Use Image 1 as the exact visual template. Strictly preserve Image 1’s GTA 6 illustration style, composition, pose, outfit, background, lighting, and any text, badges, or logos in their exact positions. Replace the character in Image 1 with the person from Image 2, preserving Image 2’s exact facial features, hairstyle, skin tone, and likeness.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "single",
+      "tip": "Attach the reference artwork as Image 1 and your portrait as Image 2.",
+      "license": "MIT"
+    },
+    {
+      "id": "template-swap-instructions-duo-template-swap-with-separate-portraits",
+      "title": "Duo Template Swap with Separate Portraits",
+      "category": "Template Swap Instructions",
+      "prompt": "Use Image 1 as the exact visual template. Strictly preserve Image 1’s GTA 6 illustration style, composition, panel layout, background, lighting, outfits/poses, and any text, badges, or logos in their exact positions. Replace the main characters in Image 1 with the person from Image 2 and the person from Image 3 respectively, preserving each person’s exact facial features, hairstyle, skin tone, and likeness.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "tip": "Attach the reference artwork as Image 1, the first portrait as Image 2, and the second portrait as Image 3.",
+      "license": "MIT"
+    },
+    {
+      "id": "template-swap-instructions-duo-template-swap-with-a-couple-photo",
+      "title": "Duo Template Swap with a Couple Photo",
+      "category": "Template Swap Instructions",
+      "prompt": "Use Image 1 as the exact visual template. Strictly preserve Image 1’s GTA 6 illustration style, composition, panel layout, background, lighting, outfits/poses, and any text, badges, or logos in their exact positions. Replace the characters in Image 1 with the people from Image 2, preserving their exact facial features, hairstyles, skin tones, and likeness.",
+      "sources": [
+        "https://gta6prompt.com/"
+      ],
+      "aliases": [],
+      "mode": "multi",
+      "tip": "Attach the reference artwork as Image 1 and a photo of both people as Image 2.",
+      "license": "MIT"
+    }
+  ]
+}
